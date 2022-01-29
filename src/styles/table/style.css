@@ -1,0 +1,29 @@
+.tableContainer {
+    border-radius: 15px;
+    margin: 10px 10px;
+    max-width: 950px;
+}
+
+.tableHeaderCell {
+    font-weight: 'bold';
+    color: #FFF;
+    padding: 20px;
+}
+
+.darkBlue {
+    background-color: #080865;
+}
+
+.box {
+    text-align: center;
+    font-size: 34px;
+    padding: 20px;
+}
+
+.lightBlue {
+    background-color: #cecef8;
+}
+
+.bodyTable {
+    border: 1px solid #a7a5a5;
+}
